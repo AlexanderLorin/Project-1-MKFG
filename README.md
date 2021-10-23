@@ -11,15 +11,16 @@ Project description:
 Gather data using API to answer following questions regarding Covid:
 1. Mortality rate based on gender - pie chart
 2. Mortality rate by age group - scatter plot
-    Age Group
-    0-17 years
-    18-29 years
-    30-39 years
-    40-49 years
-    50-64 years
-    65-74 years
-    75-84 years
-    85 + years
+    |Age Group|
+    -----------
+    |0-17 years|
+    |18-29 years|
+    |30-39 years|
+    |40-49 years|
+    |50-64 years|
+    |65-74 years|
+    |75-84 years|
+    |85 + years|
 
 3. By state - horizontal bar graph
 4. By Date - single line graph
