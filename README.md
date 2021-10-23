@@ -1,13 +1,13 @@
-###Project Title: Impact of COVID-19 in US
+# Project Title: Impact of COVID-19 in US
 
-Team Name: MKFG
-Team Members:
+**Team Name**: MKFG
+**Team Members**:
 	Rudy Duvnjak
 	Joby Augustine
 	Karla Robles
 	Alex Lorin
 
-Project description:
+**Project description:**
 Gather data using API to answer following questions regarding Covid:
 1. Mortality rate based on gender - pie chart
 2. Mortality rate by age group - scatter plot
@@ -28,9 +28,9 @@ Gather data using API to answer following questions regarding Covid:
 5. Year by year comparison - bar or line graph
 6. Linear regression to show forecast of mortality rate
 
-Datasets to be used: CDC API
+**Datasets to be used:** CDC API
 
-Breakdown of tasks
+**Breakdown of tasks**
 1. Set up GitHub repository - Alex Lorin
 2. Access API - Alex Lorin 
 3. Download the data - Alex Lorin 
