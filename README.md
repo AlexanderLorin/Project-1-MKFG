@@ -1,11 +1,13 @@
 # Project Title: Impact of COVID-19 in US
 
-**Team Name**: MKFG
+**Team Name**: 
+MKFG
+
 **Team Members**:
-	Rudy Duvnjak
-	Joby Augustine
-	Karla Robles
-	Alex Lorin
+- Rudy Duvnjak
+- Joby Augustine
+- Karla Robles
+- Alex Lorin
 
 **Project description:**
 Gather data using API to answer following questions regarding Covid:
